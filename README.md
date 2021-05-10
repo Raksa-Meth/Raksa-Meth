@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raksa-Meth
 - 👀 I’m interested in Fullstack Web Development, Mobile Development, Design and New Technology.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on MERN Project or ReactJS with Serverless.
+- 💞️ I’m looking to collaborate on MERN Stack Project or ReactJS with Serverless.
 - 📫 How to reach me : You can fine me via facebook (Raksa Meth) or Email Me (raksagame@gmail.com)
 
 <!---
